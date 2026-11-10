@@ -1,0 +1,6 @@
+{
+  "name": "Subha Garments – Coimbatore Clothing Store",
+  "description": "Complete family clothing store in Aathupalam, Coimbatore offering stylish and affordable readymade wear for Men, Women, and Kids. Buy More & Pay Less.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
